@@ -1,5 +1,5 @@
-# Ej01Equipo
-
+# Ej01Equipo 
+![Escudo del equipo para que quede mas bonito](https://github.com/robertopracticaspg/Ej01Equipo/blob/main/Borrarjugador.png)
 Es un CRUD de un equipo de futbol, en este caso el Atlético de Madrid.
 
 ## Principales tecnologías y herramientas utilizadas en el proyecto.
