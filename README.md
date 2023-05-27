@@ -1,6 +1,13 @@
 # Ej01Equipo 
-![Escudo del equipo para que quede mas bonito](https://github.com/robertopracticaspg/Ej01Equipo/blob/main/Borrarjugador.png)
+![Escudo del equipo para que quede mas bonito](https://github.com/robertopracticaspg/Ej01Equipo/blob/main/escudo.png)
+
+## Descripción del proyecto.
+
 Es un CRUD de un equipo de futbol, en este caso el Atlético de Madrid.
+
+### Ejemplo del código 
+
+![Uso Postamn para actualizar un jugador](https://github.com/robertopracticaspg/Ej01Equipo/blob/main/Borrarjugador.png)
 
 ## Principales tecnologías y herramientas utilizadas en el proyecto.
 
@@ -16,6 +23,10 @@ Es un CRUD de un equipo de futbol, en este caso el Atlético de Madrid.
 - Leer
 - Actualizar
 - Eliminar 
+
+## Acceso al proyecto
+
+https://github.com/robertopracticaspg/Ej01Equipo
 
 ## Uso
 Lo vamos ha realizar mediante Postman, que es una plataforma API para que los desarrolladores diseñen, construyan, prueben e iteren sus API.
@@ -35,3 +46,12 @@ http://localhost:8080/atleti
 ### DELETE. Borro el jugador numero 12.
 
 ![Uso Postamn para actualizar un jugador](https://github.com/robertopracticaspg/Ej01Equipo/blob/main/Borrarjugador.png)
+
+
+## Personas desarolladoras del proyecto
+
+Roberto Pesquera García.
+
+https://github.com/robertopracticaspg
+
+
