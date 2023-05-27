@@ -19,17 +19,12 @@ Es un CRUD de un equipo de futbol, en este caso el Atlético de Madrid.
 
 ## Uso
 
-Mostrar equipo completo
+CREATE. "Fichar" un nuevo jugador con el número 12, desde Postman.
+
+![Uso Postamn para crear un jugador](https://github.com/robertopracticaspg/Ej01Equipo/blob/main/Crearjugador.png)
+
+READ. Equipo completo
 http://localhost:8080/atleti
 
-
-
-
-
-Ejemplo Crear "Fichar" un nuevo jugador
-
- {
-        "numero": 12,
-        "nombre": "Morata",
-        "posicion": "Delantero Centro"
-    }
+UPDATE. Actualizar jugador cambiando el numero y la posicion.
+![Uso Postamn para actualizar un jugador](https://github.com/robertopracticaspg/Ej01Equipo/blob/main/Crearjugador.png)
