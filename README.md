@@ -66,7 +66,9 @@ http://localhost:8080/atleti
 
 ![Uso Postamn para actualizar un jugador](https://github.com/robertopracticaspg/Ej01Equipo/blob/main/Borrarjugador.png)
 
-
+### Enlace a la base de datos.
+  
+https://github.com/robertopracticaspg/Ej01Equipo/blob/main/bdequipo.csv
   
 ## Personas desarolladoras del proyecto
 
